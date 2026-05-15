@@ -1,0 +1,330 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "img": "https://c4.wallpaperflare.com/wallpaper/925/878/321/react-native-reactjs-hd-wallpaper-preview.jpg",
+      "title": "Learn React Basics",
+      "description": "Start your journey with React and build dynamic UIs with components, props, and state management.",
+      "time": "2 hours ago",
+      "tags": [
+        "React",
+        "Frontend",
+        "JavaScript"
+      ],
+      "likes": 3,
+      "dislikes": 0,
+      "likedBy": [
+        "u2",
+        "u3",
+        "uUotRDxZuxM"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "id": "2",
+      "img": "https://andrewbeeken.co.uk/wp-content/uploads/2018/11/nodejs.jpg?w=1024",
+      "title": "Node.js Crash Course",
+      "description": "Understand backend development using Node.js and Express to build powerful server-side applications.",
+      "time": "5 hours ago",
+      "tags": [
+        "Node.js",
+        "Backend",
+        "API"
+      ],
+      "likes": 1,
+      "dislikes": 0,
+      "likedBy": [
+        "uUotRDxZuxM"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "id": "3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrQwyklh0xanH_2dLNJI4eO3SXer8K51Okw&s",
+      "title": "Master CSS Flexbox",
+      "description": "Learn how to build responsive layouts using Flexbox and create beautiful designs that adapt to any screen size.",
+      "time": "1 day ago",
+      "tags": [
+        "CSS",
+        "Flexbox",
+        "Design"
+      ],
+      "likes": 0,
+      "dislikes": 0,
+      "likedBy": [],
+      "dislikedBy": []
+    },
+    {
+      "id": "4",
+      "img": "https://www.developer-tech.com/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg",
+      "title": "MongoDB Basics",
+      "description": "Introduction to NoSQL databases with MongoDB — schema design, CRUD operations, and aggregation pipelines.",
+      "time": "2 days ago",
+      "tags": [
+        "MongoDB",
+        "Database",
+        "Backend"
+      ],
+      "likes": 0,
+      "dislikes": 0,
+      "likedBy": [],
+      "dislikedBy": []
+    },
+    {
+      "id": "5",
+      "img": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*OJqmxuvnsPC3WJiz6BiuVw.png",
+      "title": "Build REST API",
+      "description": "Create scalable REST APIs with Express and best practices for authentication, validation, and error handling.",
+      "time": "3 days ago",
+      "tags": [
+        "API",
+        "Express",
+        "Backend"
+      ],
+      "likes": 0,
+      "dislikes": 0,
+      "likedBy": [],
+      "dislikedBy": []
+    },
+    {
+      "id": "6",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRelUKgogUhhOd9IDxcSSELzPqm-4J2RjJBw&s",
+      "title": "React Hooks Deep Dive",
+      "description": "Master useState, useEffect, useReducer, useCallback, useMemo and build your own custom hooks.",
+      "time": "2026-05-01",
+      "tags": [
+        "JavaScript",
+        "React",
+        "TypeScript"
+      ],
+      "likes": 0,
+      "dislikes": 0,
+      "likedBy": [],
+      "dislikedBy": []
+    },
+    {
+      "id": "7",
+      "img": "https://miro.medium.com/1*rxndUZlCYH-QYMVCduh5ug.png",
+      "title": "Getting Started with NestJS",
+      "description": "Build enterprise-grade Node.js applications with NestJS — decorators, modules, providers, and dependency injection.",
+      "time": "2026-05-02",
+      "tags": [
+        "backend",
+        "TypeScript"
+      ],
+      "likes": 1,
+      "dislikes": 0,
+      "likedBy": [
+        "u1"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "id": "8",
+      "img": "https://repository-images.githubusercontent.com/744364508/385f33ef-8b5b-4eb1-a638-739bc6e2d225",
+      "title": "TypeScript with Node.js",
+      "description": "Enhance your backend development by adding type safety to your Node.js applications. Learn interfaces, types, and decorators.",
+      "time": "4 hours ago",
+      "tags": [
+        "Node.js",
+        "TypeScript",
+        "Backend"
+      ],
+      "likes": 5,
+      "dislikes": 0,
+      "likedBy": [
+        "u1"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "id": "9",
+      "img": "https://i.ytimg.com/vi/6biMWgD6_JY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5WsTlICdTHdHzFzy2vPchmlBN0Q",
+      "title": "Mastering Tailwind CSS",
+      "description": "Rapidly build modern websites without ever leaving your HTML. A deep dive into utility-first CSS and responsive design.",
+      "time": "10 hours ago",
+      "tags": [
+        "CSS",
+        "Tailwind",
+        "Frontend"
+      ],
+      "likes": 12,
+      "dislikes": 1,
+      "likedBy": [],
+      "dislikedBy": [
+        "u2"
+      ]
+    },
+    {
+      "id": "10",
+      "img": "https://lh7-us.googleusercontent.com/TPlo8EH6SlEoIC0hthDUNPsmeHsvur4yw28PZooxTNZ-_N5Bats8SZ-jT8L4ewCy3kHOAHFinxF503NINUMkTbrcCo7pchsLi-zFNc3tQHFd8tNA1vQOkGramTlFwxjbUV1NSs8kwA0tOGPV6mDl2ZdeIF9NTRbC7C1M7P6O4nGLgrwRSpFvxwmFe6kZhg",
+      "title": "UI/UX Design Principles",
+      "description": "Learn the core fundamentals of visual hierarchy, spacing, and typography to create intuitive user interfaces in Figma.",
+      "time": "2 days ago",
+      "tags": [
+        "UI/UX",
+        "Design",
+        "Figma"
+      ],
+      "likes": 8,
+      "dislikes": 0,
+      "likedBy": [
+        "u3"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "id": "11",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqAeoNj1Laxu0nwZiPVptzcD5nZoHNWWn_Q&s",
+      "title": "PostgreSQL & TypeORM",
+      "description": "Connect your NestJS or Express apps to PostgreSQL using TypeORM. Master migrations, relations, and query builders.",
+      "time": "2026-05-03",
+      "tags": [
+        "Database",
+        "PostgreSQL",
+        "Backend"
+      ],
+      "likes": 3,
+      "dislikes": 0,
+      "likedBy": [],
+      "dislikedBy": []
+    },
+    {
+      "id": "12",
+      "img": "https://media.licdn.com/dms/image/v2/D5612AQGpA5HHjQGNiA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1733850208136?e=2147483647&v=beta&t=XSQWXFKajBxbzvQFcHQltXppyYj60joM-NNqgx31-9w",
+      "title": "Introduction to PWAs",
+      "description": "Transform your web applications into Progressive Web Apps with Service Workers, manifests, and offline storage via IndexedDB.",
+      "time": "2026-05-04",
+      "tags": [
+        "PWA",
+        "Frontend",
+        "JavaScript"
+      ],
+      "likes": 7,
+      "dislikes": 0,
+      "likedBy": [
+        "u1",
+        "u2"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "id": "13",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHsFDEcXVO9XjMU-3VcyYstJBMTGigFxClwA&s",
+      "title": "Microservices with NestJS",
+      "description": "Build scalable distributed systems using NestJS microservices. Learn about Redis, RabbitMQ, and gRPC communication.",
+      "time": "3 days ago",
+      "tags": [
+        "NestJS",
+        "Microservices",
+        "Backend"
+      ],
+      "likes": 15,
+      "dislikes": 0,
+      "likedBy": [
+        "u1"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "id": "14",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFhSMxqXk1pEXBRyotNJ3NEazg3V_oriRFog&s",
+      "title": "Advanced Redux Toolkit",
+      "description": "Manage global state like a pro. Learn createSlice, createAsyncThunk, and RTK Query for efficient data fetching.",
+      "time": "1 week ago",
+      "tags": [
+        "React",
+        "Redux",
+        "Frontend"
+      ],
+      "likes": 4,
+      "dislikes": 0,
+      "likedBy": [],
+      "dislikedBy": []
+    },
+    {
+      "id": "15",
+      "title": "AI in Fashion Retail",
+      "img": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1000&auto=format&fit=crop",
+      "description": "Exploring how AI models can predict clothing sizes and generate outfit recommendations based on user measurements.",
+      "time": "Just now",
+      "tags": [
+        "AI",
+        "E-commerce",
+        "Python"
+      ],
+      "likes": 10,
+      "dislikes": 0,
+      "likedBy": [
+        "u1"
+      ],
+      "dislikedBy": []
+    },
+    {
+      "title": "GitHub Demo",
+      "description": "start with GitHub",
+      "time": "2026-05-06",
+      "tags": [
+        "backend",
+        "frontend",
+        "fullstack"
+      ],
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tvx2BFjpYmfiIBLV25XIfVZy4KhCYFLB7w&s",
+      "likes": 1,
+      "dislikes": 0,
+      "likedBy": [
+        "sgVf68vv4xs"
+      ],
+      "dislikedBy": [],
+      "id": "TuOHwiZVbWE"
+    },
+    {
+      "title": "GitHub 2",
+      "description": "starting GitHub Demo",
+      "time": "2026-05-01",
+      "tags": [
+        "fullstack",
+        "Python"
+      ],
+      "img": "https://beecrowd.com/wp-content/uploads/2024/04/2022-08-18-GitHub.jpg",
+      "likes": 2,
+      "dislikes": 0,
+      "likedBy": [
+        "uUotRDxZuxM",
+        "u1"
+      ],
+      "dislikedBy": [],
+      "id": "heDqMyP_ji4"
+    },
+    {
+      "title": "test",
+      "description": "test post",
+      "time": "2026-05-08",
+      "tags": [
+        "UI/UX"
+      ],
+      "img": "",
+      "likes": 0,
+      "dislikes": 0,
+      "likedBy": [],
+      "dislikedBy": [],
+      "id": "9MsBJrY9dmU"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Demo User",
+      "email": "demo@test.com",
+      "password": "123456"
+    },
+    {
+      "name": "mohanad",
+      "email": "mohanadtarek742203@gmail.com",
+      "password": "111111",
+      "confirmPassword": "111111",
+      "id": "uUotRDxZuxM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

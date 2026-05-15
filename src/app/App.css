@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;600;800&display=swap");
+
+
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff; 
+  --border: #e2e8f0;
+  --text: #1e293b; 
+  --muted: #64748b;
+  --primary: #6366f1; 
+  --accent: #10b981; 
+  --secondary: #f43f5e;
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+  --shadow-hover: 0 20px 25px -5px rgb(0 0 0 / 0.08);
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Inter", sans-serif;
+  min-height: 100vh;
+  background-image:
+    radial-gradient(at 0% 0%, #6366f108 0px, transparent 50%),
+    radial-gradient(at 100% 100%, #10b98108 0px, transparent 50%);
+}
+
+
+.layout {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 32px;
+  max-width: 1280px;
+  margin: 40px auto;
+  padding: 0 24px;
+}
+
+
+.content {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+.toggle-btn {
+  display: block;
+  margin: 0 auto 30px auto;
+  padding: 10px 24px;
+  background-color: transparent;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+  border-radius: var(--radius-lg);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.toggle-btn:hover {
+  background-color: var(--primary);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.2);
+}
+
+.toggle-btn:active {
+  transform: translateY(0);
+}

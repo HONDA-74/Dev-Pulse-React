@@ -1,0 +1,26 @@
+{
+  "sidebar": {
+    "title": "إضافة بطاقة",
+    "form": {
+      "title": "العنوان",
+      "description": "الوصف",
+      "date": "التاريخ",
+      "tags": "الوسوم",
+      "img": "رابط الصورة",
+      "submit": "إضافة منشور",
+      "placeholders": {
+        "title": "مثال: تعلم React Hooks",
+        "description": "وصف قصير...",
+        "img": "https://..."
+      }
+    }
+  },
+  "posts": {
+    "search": "بحث في المنشورات...",
+    "empty": "لم يتم العثور على منشورات.",
+    "reactions": {
+      "like": "أعجبني",
+      "dislike": "لم يعجبني"
+    }
+  }
+}

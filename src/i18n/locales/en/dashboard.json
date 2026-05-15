@@ -1,0 +1,26 @@
+{
+  "sidebar": {
+    "title": "Add a Card",
+    "form": {
+      "title": "Title",
+      "description": "Description",
+      "date": "Date",
+      "tags": "Tags",
+      "img": "Image URL",
+      "submit": "Add Post",
+      "placeholders": {
+        "title": "e.g. Learn React Hooks",
+        "description": "Short description...",
+        "img": "https://..."
+      }
+    }
+  },
+  "posts": {
+    "search": "Search posts...",
+    "empty": "No posts found.",
+    "reactions": {
+      "like": "Like",
+      "dislike": "Dislike"
+    }
+  }
+}

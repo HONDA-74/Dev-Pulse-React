@@ -1,0 +1,63 @@
+{
+  "navbar": {
+    "home": "Home",
+    "posts": "Posts",
+    "createPost": "Create Post",
+    "about": "About",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign up"
+  },
+  "greeting": "👋 {{name}}",
+  "footer": {
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "blog": "Blog",
+    "github": "GitHub",
+    "rights": "© 2025 devpulse. All rights reserved."
+  },
+  "home": {
+    "community": "Developer community blog",
+    "hero": {
+      "title": "Learn. Build. Share.",
+      "subtitle": "Discover the latest posts on web development, software engineering, and emerging technologies from developers like you."
+    },
+    "actions": {
+      "browse": "Browse Posts",
+      "create": "+ Create Post"
+    },
+    "stats": {
+      "posts": "Posts Published",
+      "tags": "Tags & Topics",
+      "openSource": "Open Source"
+    }
+  },
+  "about": {
+    "title": "About devpulse",
+    "subtitle": "A community-driven blog platform built for developers, by developers. We believe knowledge grows when shared freely.",
+    "mission": {
+      "title": "Our Mission",
+      "desc": "devpulse aims to be the go-to platform where developers of all levels can share tutorials, insights, project ideas, and technical discoveries. Whether you're a beginner just starting out or a senior engineer with a decade of experience — your voice matters here."
+    },
+    "values": {
+      "open": { "title": "Open", "desc": "Free to read, free to share. No paywalls." },
+      "inclusive": { "title": "Inclusive", "desc": "Every developer belongs here regardless of background." },
+      "growth": { "title": "Growth-first", "desc": "We celebrate learning, not just expertise." }
+    },
+    "team": {
+      "title": "The Team",
+      "members": {
+        "alex": { "name": "Alex Rivera", "role": "Founder & Lead Dev" },
+        "jordan": { "name": "Jordan Lee", "role": "Frontend Engineer" },
+        "sam": { "name": "Sam Chen", "role": "Backend Engineer" }
+      }
+    }
+  },
+  "notFound": {
+    "title": "404",
+    "subtitle": "Page not found",
+    "desc": "The page you're looking for doesn't exist or has been moved.",
+    "button": "Back to Home"
+  }
+}
