@@ -237,9 +237,11 @@
         "Redux",
         "Frontend"
       ],
-      "likes": 4,
+      "likes": 5,
       "dislikes": 0,
-      "likedBy": [],
+      "likedBy": [
+        "uUotRDxZuxM"
+      ],
       "dislikedBy": []
     },
     {
@@ -277,38 +279,6 @@
       ],
       "dislikedBy": [],
       "id": "TuOHwiZVbWE"
-    },
-    {
-      "title": "GitHub 2",
-      "description": "starting GitHub Demo",
-      "time": "2026-05-01",
-      "tags": [
-        "fullstack",
-        "Python"
-      ],
-      "img": "https://beecrowd.com/wp-content/uploads/2024/04/2022-08-18-GitHub.jpg",
-      "likes": 2,
-      "dislikes": 0,
-      "likedBy": [
-        "uUotRDxZuxM",
-        "u1"
-      ],
-      "dislikedBy": [],
-      "id": "heDqMyP_ji4"
-    },
-    {
-      "title": "test",
-      "description": "test post",
-      "time": "2026-05-08",
-      "tags": [
-        "UI/UX"
-      ],
-      "img": "",
-      "likes": 0,
-      "dislikes": 0,
-      "likedBy": [],
-      "dislikedBy": [],
-      "id": "9MsBJrY9dmU"
     }
   ],
   "users": [
